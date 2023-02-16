@@ -1,9 +1,8 @@
-Twitter-Statify
+# Twitter-Statify
 Reads tweets containing statistical info from Twitter and convert it into visually appealing plots
 
-Folder Structure
+## Folder Structure
 
-``
 project/
 │
 ├── data_utils.py
@@ -12,9 +11,8 @@ project/
 ├── secret.ini
 ├── README.md
 └── .gitignore
-``
 
-Usage
+## Usage
 Add your OpenAI API key in secret.ini
 
 
